@@ -36,3 +36,6 @@ This portfolio showcases:
 - CSS
 - Bootstrap 5
 - Bootstrap Icons
+
+## Git Repository Link
+https://github.com/deekshitha-1701/Portfolio
